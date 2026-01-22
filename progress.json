@@ -258,5 +258,14 @@
       "Tag beta is still on the remote!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1769062238.475725,
+    "completed_at": 1769062241.842017,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git ls-remote --tags\n  stderr: 'fatal: No remote configured to list refs from.'"
+    ],
+    "status": "Error"
   }
 ]
