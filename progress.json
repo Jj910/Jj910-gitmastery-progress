@@ -240,32 +240,5 @@
       "Great work! You have successfully updated the tags to point to the correct commits."
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-push",
-    "started_at": 1769062103.480934,
-    "completed_at": 1769062106.853775,
-    "comments": [
-      "Cmd('git') failed due to: exit code(128)\n  cmdline: git ls-remote --tags\n  stderr: 'fatal: No remote configured to list refs from.'"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "tags-push",
-    "started_at": 1769062135.015406,
-    "completed_at": 1769062138.846123,
-    "comments": [
-      "Tag beta is still on the remote!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "tags-push",
-    "started_at": 1769062238.475725,
-    "completed_at": 1769062241.842017,
-    "comments": [
-      "Cmd('git') failed due to: exit code(128)\n  cmdline: git ls-remote --tags\n  stderr: 'fatal: No remote configured to list refs from.'"
-    ],
-    "status": "Error"
   }
 ]
