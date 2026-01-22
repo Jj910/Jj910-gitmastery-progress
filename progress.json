@@ -1,5 +1,77 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1768994223.672738,
+    "completed_at": 1768994228.567257,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1768994433.007407,
+    "completed_at": 1768994436.137025,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1768994675.832496,
+    "completed_at": 1768994678.831032,
+    "comments": [
+      "Remote 'alice-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-alice"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1768994773.745108,
+    "completed_at": 1768994776.691526,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1768994798.679885,
+    "completed_at": 1768994801.697005,
+    "comments": [
+      "You did not pull Alice's changes to your own main branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1768994827.629868,
+    "completed_at": 1768994829.370116,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1768994036.400422,
+    "completed_at": 1768994040.179984,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1768994074.752477,
+    "completed_at": 1768994077.913955,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1768624521.936666,
     "completed_at": 1768624524.010513,
@@ -98,11 +170,29 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "side-track",
+    "started_at": 1768993828.864651,
+    "completed_at": 1768993830.688183,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1768624368.532298,
     "completed_at": 1768624370.089244,
     "comments": [
       "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768719688.244111,
+    "completed_at": 1768719689.92681,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
@@ -121,15 +211,6 @@
     "completed_at": 1768623663.430047,
     "comments": [
       "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1768719688.244111,
-    "completed_at": 1768719689.92681,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   }
