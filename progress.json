@@ -170,6 +170,72 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1769422813.419234,
+    "completed_at": 1769422815.192979,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769349432.651906,
+    "completed_at": 1769349436.600276,
+    "comments": [
+      "Answer for Which are the new values in staged files? is not right.",
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769349544.872525,
+    "completed_at": 1769349548.194811,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769349656.497842,
+    "completed_at": 1769349659.917973,
+    "comments": [
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769349735.877135,
+    "completed_at": 1769349737.492194,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769422333.653507,
+    "completed_at": 1769422335.807138,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1769423425.461949,
+    "completed_at": 1769423427.495643,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "side-track",
     "started_at": 1768993828.864651,
     "completed_at": 1768993830.688183,
@@ -197,6 +263,42 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "tags-add",
+    "started_at": 1769060548.407582,
+    "completed_at": 1769060550.030333,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1769062389.049311,
+    "completed_at": 1769062393.027544,
+    "comments": [
+      "Tag beta is still on the remote!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1769062434.635292,
+    "completed_at": 1769062437.006097,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1769060882.145054,
+    "completed_at": 1769060883.691288,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "under-control",
     "started_at": 1768623569.383141,
     "completed_at": 1768623571.010137,
@@ -220,42 +322,6 @@
     "completed_at": 1769058424.544197,
     "comments": [
       "Great work in viewing and understanding the diff of a specific commit!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-add",
-    "started_at": 1769060548.407582,
-    "completed_at": 1769060550.030333,
-    "comments": [
-      "Great work using git tag to annotate various commits in the repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-update",
-    "started_at": 1769060882.145054,
-    "completed_at": 1769060883.691288,
-    "comments": [
-      "Great work! You have successfully updated the tags to point to the correct commits."
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-push",
-    "started_at": 1769062389.049311,
-    "completed_at": 1769062393.027544,
-    "comments": [
-      "Tag beta is still on the remote!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "tags-push",
-    "started_at": 1769062434.635292,
-    "completed_at": 1769062437.006097,
-    "comments": [
-      "Wonderful! You have successfully synced the local tags with the remote tags!"
     ],
     "status": "Completed"
   }
