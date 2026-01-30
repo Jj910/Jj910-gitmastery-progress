@@ -1,5 +1,51 @@
 [
   {
+    "exercise_name": "branch-compare",
+    "started_at": 1769533699.866021,
+    "completed_at": 1769533704.096248,
+    "comments": [
+      "Answer for Which numbers are present in stream-1 but not in stream-2? is not right.",
+      "Answer for Which numbers are present in stream-2 but not in stream-1? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769533742.009014,
+    "completed_at": 1769533745.981324,
+    "comments": [
+      "Answer for Which numbers are present in stream-1 but not in stream-2? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769533825.390369,
+    "completed_at": 1769533827.865629,
+    "comments": [
+      "Great work comparing the branches successfully!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769511339.463771,
+    "completed_at": 1769511342.814702,
+    "comments": [
+      "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769511503.694995,
+    "completed_at": 1769511505.313775,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "clone-repo",
     "started_at": 1768994223.672738,
     "completed_at": 1768994228.567257,
@@ -236,6 +282,15 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "sensors-revert",
+    "started_at": 1769507151.516928,
+    "completed_at": 1769507155.526864,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "side-track",
     "started_at": 1768993828.864651,
     "completed_at": 1768993830.688183,
@@ -322,15 +377,6 @@
     "completed_at": 1769058424.544197,
     "comments": [
       "Great work in viewing and understanding the diff of a specific commit!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-revert",
-    "started_at": 1769507151.516928,
-    "completed_at": 1769507155.526864,
-    "comments": [
-      "Good work reverting commits!"
     ],
     "status": "Completed"
   }
